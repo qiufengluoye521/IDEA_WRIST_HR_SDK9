@@ -1,0 +1,9 @@
+.\_build\idea_hal_acc.o: ..\..\..\..\..\..\components\IdeaSource\src\idea_hal_acc.c
+.\_build\idea_hal_acc.o: ..\..\..\..\..\..\components\IdeaSource\inc\idea_spi_master.h
+.\_build\idea_hal_acc.o: D:\Keil_v5\ARM\ARMCC\Bin\..\include\stdbool.h
+.\_build\idea_hal_acc.o: D:\Keil_v5\ARM\ARMCC\Bin\..\include\stdint.h
+.\_build\idea_hal_acc.o: ..\..\..\..\..\..\components\libraries\util\nrf_assert.h
+.\_build\idea_hal_acc.o: ..\..\..\..\..\..\components\device\compiler_abstraction.h
+.\_build\idea_hal_acc.o: ..\..\..\..\..\..\components\IdeaSource\inc\hal_acc.h
+.\_build\idea_hal_acc.o: ..\..\..\..\..\..\components\IdeaSource\inc\idea_lis3dh_driver.h
+.\_build\idea_hal_acc.o: ..\..\..\..\..\..\components\IdeaSource\inc\simple_uart.h

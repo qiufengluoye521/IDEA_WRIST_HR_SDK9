@@ -1,0 +1,14 @@
+.\_build\idea_menu_display.o: ..\..\..\..\..\..\components\IdeaSource\src\idea_menu_display.c
+.\_build\idea_menu_display.o: ..\..\..\..\..\..\components\IdeaSource\inc\idea_menu_display.h
+.\_build\idea_menu_display.o: D:\Keil_v5\ARM\ARMCC\Bin\..\include\stdint.h
+.\_build\idea_menu_display.o: ..\..\..\..\..\..\components\IdeaSource\inc\idea_oled.h
+.\_build\idea_menu_display.o: ..\..\..\..\..\..\components\drivers_nrf\hal\nrf_gpio.h
+.\_build\idea_menu_display.o: ..\..\..\..\..\..\components\device\nrf51.h
+.\_build\idea_menu_display.o: D:\Keil_v5\ARM\PACK\ARM\CMSIS\4.5.0\CMSIS\Include\core_cm0.h
+.\_build\idea_menu_display.o: D:\Keil_v5\ARM\PACK\ARM\CMSIS\4.5.0\CMSIS\Include\core_cmInstr.h
+.\_build\idea_menu_display.o: D:\Keil_v5\ARM\PACK\ARM\CMSIS\4.5.0\CMSIS\Include\cmsis_armcc.h
+.\_build\idea_menu_display.o: D:\Keil_v5\ARM\PACK\ARM\CMSIS\4.5.0\CMSIS\Include\core_cmFunc.h
+.\_build\idea_menu_display.o: ..\..\..\..\..\..\components\toolchain\system_nrf51.h
+.\_build\idea_menu_display.o: ..\..\..\..\..\..\components\device\nrf51_bitfields.h
+.\_build\idea_menu_display.o: D:\Keil_v5\ARM\ARMCC\Bin\..\include\stdbool.h
+.\_build\idea_menu_display.o: ..\..\..\..\..\..\components\IdeaSource\inc\idea_sw_flash.h

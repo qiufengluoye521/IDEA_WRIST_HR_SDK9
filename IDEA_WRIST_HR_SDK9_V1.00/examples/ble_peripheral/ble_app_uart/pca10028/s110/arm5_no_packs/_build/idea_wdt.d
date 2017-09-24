@@ -1,0 +1,9 @@
+.\_build\idea_wdt.o: ..\..\..\..\..\..\components\IdeaSource\src\idea_wdt.c
+.\_build\idea_wdt.o: ..\..\..\..\..\..\components\device\nrf51.h
+.\_build\idea_wdt.o: D:\Keil_v5\ARM\PACK\ARM\CMSIS\4.5.0\CMSIS\Include\core_cm0.h
+.\_build\idea_wdt.o: D:\Keil_v5\ARM\ARMCC\Bin\..\include\stdint.h
+.\_build\idea_wdt.o: D:\Keil_v5\ARM\PACK\ARM\CMSIS\4.5.0\CMSIS\Include\core_cmInstr.h
+.\_build\idea_wdt.o: D:\Keil_v5\ARM\PACK\ARM\CMSIS\4.5.0\CMSIS\Include\cmsis_armcc.h
+.\_build\idea_wdt.o: D:\Keil_v5\ARM\PACK\ARM\CMSIS\4.5.0\CMSIS\Include\core_cmFunc.h
+.\_build\idea_wdt.o: ..\..\..\..\..\..\components\toolchain\system_nrf51.h
+.\_build\idea_wdt.o: ..\..\..\..\..\..\components\device\nrf51_bitfields.h

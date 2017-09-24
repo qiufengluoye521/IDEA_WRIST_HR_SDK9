@@ -1,0 +1,11 @@
+.\_build\idea_event.o: ..\..\..\..\..\..\components\IdeaSource\src\idea_event.c
+.\_build\idea_event.o: ..\..\..\..\..\..\components\IdeaSource\inc\idea_event.h
+.\_build\idea_event.o: D:\Keil_v5\ARM\ARMCC\Bin\..\include\stdint.h
+.\_build\idea_event.o: ..\..\..\..\..\..\components\IdeaSource\inc\simple_uart.h
+.\_build\idea_event.o: D:\Keil_v5\ARM\ARMCC\Bin\..\include\stdbool.h
+.\_build\idea_event.o: ..\..\..\..\..\..\components\IdeaSource\inc\idea_input_event_source.h
+.\_build\idea_event.o: ..\..\..\..\..\..\components\IdeaSource\inc\config.h
+.\_build\idea_event.o: ..\..\..\..\..\..\components\IdeaSource\algorithm_inc\click-algorithm.h
+.\_build\idea_event.o: ..\..\..\..\..\..\components\IdeaSource\inc\idea_board_config_pins.h
+.\_build\idea_event.o: D:\Keil_v5\ARM\ARMCC\Bin\..\include\string.h
+.\_build\idea_event.o: ..\..\..\..\..\..\components\IdeaSource\inc\idea_display.h
